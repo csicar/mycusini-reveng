@@ -24,6 +24,10 @@ There is also a summary of changes in the [`mycusini-firmware.ino`](https://gith
 >  Marcel Menu
 >  = change and add menu options
 
+## USB Port
+
+The USB Port exposes a standard serial port, which also reports temperatures and accepts GCODE, so OctoPrint etc. seem to work just fine with it.
+
 ## PrusaSlicer Config
 
 See the files `3dbenchy.3mf` and `config.ini`
